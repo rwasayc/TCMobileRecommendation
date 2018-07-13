@@ -4,7 +4,7 @@ TRAIN_USER_CSV_PATH = '../source/fresh_comp_offline/tianchi_fresh_comp_train_use
 TRAIN_ITEM_CSV_PATH = '../Tianchi-BigData/data/fresh_comp_offline/tianchi_fresh_comp_train_item.csv'
 
 
-SAVE_BASE_PATH = '../data'
+SAVE_BASE_PATH = '/Users/chenhuanxiang/Project/BigData/TCMobileRecommendation/data'
 
 TRAIN_USER_CSV_FIRST_DATA = '%s/train/p1_user_data.csv' % SAVE_BASE_PATH
 TRAIN_USER_CSV_FIRST_TEST = '%s/train/p1_user_test.csv' % SAVE_BASE_PATH

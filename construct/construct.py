@@ -73,6 +73,6 @@ def build_label():
 
         uic_label.to_csv(target['label_save'], index=False)
 
-csv_path.init_path()
+# csv_path.init_path()
 # build_train_and_test()
-build_label()
+# build_label()
